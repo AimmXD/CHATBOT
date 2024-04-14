@@ -1,7 +1,7 @@
 {
   "name": "CHATBOT",
-  "description": "A telegram bot",
-  "logo": "https://telegra.ph/file/00eb565274ccbffcf149d.jpg",
+  "description": "A PowerFull Telegram Chatbot",
+  "logo": "https://telegra.ph/file/8d15f8096118ea9aba65d.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/codebitey/Neha",
+  "repository": "https://github.com/AimmXD/CHATBOT",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
@@ -36,7 +36,7 @@
     "OWNER_ID": {
       "description": "User id of the user who will known as owner of the bot.",
       "required": true,
-      "value": ""
+      "value": "6348268237"
     }
   }
 }
