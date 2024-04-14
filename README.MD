@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 AimmXD CHATBOT 」──
+    ──「 AimX CHATBOT 」──
 </h2>
 <p align="center">
   <img src="https://telegra.ph/file/00eb565274ccbffcf149d.jpg">
